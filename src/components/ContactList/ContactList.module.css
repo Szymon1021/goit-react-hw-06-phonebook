@@ -1,9 +1,8 @@
-.list {
-    list-style-type: none;
-    font-size: 27px;
+.list__elem {
+    padding: 5px, 20px, 5px, 0;
 }
-.contactlist {
-    display: flex;
-    margin-top: 5px;
-    gap: 10px;
+
+.name,
+.number {
+    margin-right: 20px;
 }

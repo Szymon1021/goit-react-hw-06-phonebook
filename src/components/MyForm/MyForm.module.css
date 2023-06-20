@@ -1,16 +1,21 @@
-.contact {
-    display: flex;
-    flex-direction: column;
-    width: 160px;
-    margin-top: 10px;
+.add {
+    background-color: red;
 }
 
-.contactButton {
-    width: 90px;
-    margin-top: 0px;
+.form {
+    margin: 10px;
+    display: block;
 }
 
-.contactInput {
-    margin-top: 10px;
-    margin-bottom: 10px;
+.label {
+    display: block;
+}
+
+.button {
+    display: block;
+    margin-top: 20px;
+}
+
+.p {
+    margin: 5px;
 }
