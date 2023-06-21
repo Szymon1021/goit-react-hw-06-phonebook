@@ -4,7 +4,7 @@ import { useDispatch } from 'react-redux';
 import { addContactAction } from 'redux/contactsSlice';
 import { nanoid } from '@reduxjs/toolkit';
 
-export const ContactForm = () => {
+export const MyForm = () => {
   const dispatch = useDispatch();
 
   let number = '';
